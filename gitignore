@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+
+# Data files (keep hhs_data.xlsx tracked, ignore large/sensitive data)
+*.csv
+*.pkl
+*.pickle
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
