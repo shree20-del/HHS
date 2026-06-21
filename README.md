@@ -39,7 +39,8 @@ proactive healthcare and child-welfare planning instead of reactive responses.
 ---
 
 ## 🚀 Live Dashboard
-👉 **[Open Streamlit App]([https://shreeee-care-load.streamlit.app/)**
+👉 **[Open Streamlit App]
+([https://shreeee-care-load.streamlit.app/)**
 
 ---
 
