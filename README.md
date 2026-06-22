@@ -112,11 +112,6 @@ streamlit run app.py
 - **Data:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 
----
-##👨‍💻 Developed By
-DHANSHREE CHAUDHARI
-Data Analyst Intern
-Unified Mentor Limited
 
 ## 📄 License
 This project is licensed under the **MIT License** — see LICENSE file for details.
