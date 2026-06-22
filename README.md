@@ -95,8 +95,7 @@ proactive healthcare and child-welfare planning instead of reactive responses.
 ## ⚙️ How to Run Locally
 
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/hhs-care-load-forecasting.git
-cd hhs-care-load-forecasting
+gh repo clone shree20-del/HHS
 
 # 2. Install dependencies
 pip install -r requirements.txt
